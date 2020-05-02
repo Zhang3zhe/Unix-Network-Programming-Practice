@@ -1,0 +1,102 @@
+Waitting for the connection from a client...
+client ip: 182.47.250.125	 port: 18918
+method = GET
+url = /
+path: ./htdocs/index.html
+Request from the client: 
+GET / HTTP/1.1
+Host: 47.110.224.213
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Connection: close
+
+client ip: 182.47.250.125	 port: 18922
+method = GET
+url = /
+path: ./htdocs/index.html
+Request from the client: 
+GET / HTTP/1.1
+Host: 47.110.224.213
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Connection: close
+
+client ip: 182.47.250.125	 port: 18950
+method = GET
+url = /
+path: ./htdocs/index.html
+Request from the client: 
+GET / HTTP/1.1
+Host: 47.110.224.213
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Linux; Android 8.0.0; MI 5 Build/OPR1.170623.032; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/6.2 TBS/045118 Mobile Safari/537.36 V1_AND_SQ_7.1.0_0_TIM_D TIM/2.3.1.1834 QQ/6.5.5  NetType/
+WIFI WebP/0.3.0 Pixel/1080
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,image/tpg,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US
+
+client ip: 182.47.250.125	 port: 18964
+method = GET
+url = /
+path: ./htdocs/index.html
+Request from the client: 
+GET / HTTP/1.1
+Host: 47.110.224.213
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Linux; Android 8.0.0; MI 5 Build/OPR1.170623.032; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/6.2 TBS/045118 Mobile Safari/537.36 V1_AND_SQ_7.1.0_0_TIM_D TIM/2.3.1.1834 QQ/6.5.5  NetType/
+WIFI WebP/0.3.0 Pixel/1080
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,image/tpg,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US
+
+client ip: 182.47.250.125	 port: 18966
+method = GET
+url = /
+path: ./htdocs/index.html
+Request from the client: 
+GET / HTTP/1.1
+Host: 47.110.224.213
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Linux; Android 8.0.0; MI 5 Build/OPR1.170623.032; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/6.2 TBS/045118 Mobile Safari/537.36 V1_AND_SQ_7.1.0_0_TIM_D TIM/2.3.1.1834 QQ/6.5.5  NetType/
+WIFI WebP/0.3.0 Pixel/1080
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,image/tpg,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US
+
+client ip: 182.47.250.125	 port: 19012
+method = GET
+url = /
+path: ./htdocs/index.html
+Request from the client: 
+GET / HTTP/1.1
+Host: 47.110.224.213
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Linux; Android 8.0.0; MI 5 Build/OPR1.170623.032; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/6.2 TBS/045118 Mobile Safari/537.36 V1_AND_SQ_7.1.0_0_TIM_D TIM/2.3.1.1834 QQ/6.5.5  NetType/
+WIFI WebP/0.3.0 Pixel/1080
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,image/tpg,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US
+
+client ip: 182.47.250.125	 port: 19015
+method = GET
+url = /
+path: ./htdocs/index.html
+Request from the client: 
+GET / HTTP/1.1
+Host: 47.110.224.213
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,imag
