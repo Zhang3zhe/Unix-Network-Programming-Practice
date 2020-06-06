@@ -1,0 +1,83 @@
+代码清单
+
+
+[第5章 Linux网络编程基础API]
+
+code_5_1.cpp	判断机器字节序
+code_5_3.cpp	backlog参数
+code_5_5.cpp	接受一个异常的连接
+code_5_6.cpp	发送带外数据
+code_5_7.cpp	接收带外数据
+code_5_12.cpp	访问daytime服务
+
+
+[第6章 高级I/O函数]
+
+code_6_1.cpp	CGI服务器原理
+code_6_2.cpp	Web服务器上的集中写
+code_6_3.cpp	用sendfile函数传输文件
+code_6_4.cpp	用splice函数实现的回射服务器
+code_6_5.cpp	同时输出数据到终端和文件的程序
+
+
+[第8章 高性能服务器程序框架]
+
+code_8_3.cpp	HTTP请求的读取和分析
+
+
+[第9章 I/O复用]
+
+code_9_2.cpp	poll和epoll在使用上的差别
+code_9_3.cpp	epoll的LT和ET模式
+code_9_4.cpp	使用EPOLLONESHOT事件
+code_9_5.cpp	非阻塞connect
+code_9_6.cpp	聊天室客户端程序
+code_9_7.cpp	聊天室服务器程序
+code_9_8.cpp	同时处理TCP请求和UDP请求的回射服务器
+
+
+[第10章 信号]
+
+code_10_1.cpp	统一事件源
+code_10_3.cpp	用SIGURG检测带外数据是否到达
+
+
+[第11章 定时器]
+
+code_11_1.cpp	设置connect超时时间
+lst_timer.h	升序链表定时器
+code_11_3.cpp	关闭非活动连接
+
+
+[第12章 高性能I/O框架库Libevent]
+
+code_12_1.cpp	使用Libevent的定时器程序
+
+
+[第13章 多进程编程]
+
+code_13_4.cpp	使用共享内存的聊天室服务器程序
+
+
+[第14章 多线程编程]
+
+code_14_1.cpp	按不同顺序访问互斥锁导致死锁
+locker.h	线程同步机制包装类
+
+
+[第15章 进程池和线程池]
+
+processpoll.h	半同步/半异步进程池
+cgi_server.cpp	用进程池实现的并发CGI服务器
+
+threadpool.h	半同步/半反应堆线程池实现
+http_conn.h	HTTP任务逻辑头文件
+http_conn.cpp	HTTP任务逻辑实现文件
+web_server.cpp	用线程池实现的web服务器
+
+
+[第16章 服务器调制、调试和测试]
+
+stress_test.cpp	服务器压力测试程序
+
+
